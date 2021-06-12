@@ -36,5 +36,3 @@ retorna o novo comprimento do array. */
 console.log(lista); //[ 'ovos', 'chocolate em pó', 'chá mate', 'detergente' ]
 lista.unshift("xampú");
 console.log(lista); //[ 'xampú', 'ovos', 'chocolate em pó', 'chá mate', 'detergente' ]
-
-
